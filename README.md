@@ -33,9 +33,9 @@ The objective of this project was to develop an interactive and insightful Power
 
 ## Project Scope
 
-Spotify Dashboard Overview
+### Spotify Dashboard Overview
 
-![Spotify Dashboard](https://raw.githubusercontent.com/Busayoilesanmi/Spotify-Music-Insights-1976-2025-/main/SpotifyDashboard.png)
+![Spotify Dashboard](https://github.com/Busayoilesanmi/Spotify-Music-Insights-1976-2025-/main/SpotifyDashboard.png)
 
 Focused on analyzing:
 
