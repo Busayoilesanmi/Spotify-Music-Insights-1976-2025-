@@ -35,7 +35,7 @@ The objective of this project was to develop an interactive and insightful Power
 
 Spotify Dashboard Overview
 
-![Screenshot 2025-06-25 010554](https://github.com/user-attachments/assets/67858922-24bd-43bf-8601-72c883e4f2bf)
+![Screenshot2025-06-25 010554](https://github.com/user-attachments/assets/67858922-24bd-43bf-8601-72c883e4f2bf)
 
 Focused on analyzing:
 
