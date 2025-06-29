@@ -14,8 +14,6 @@
 
 [Conclusion](#Conclusion)
 
-[References & Appendices](#References&Appendices)
-
 ## Introduction
 
 This report presents an analytical overview of Spotify music data spanning the years 1976 to 2025. The dashboard developed using Power BI explores patterns in track popularity, artist
